@@ -24,17 +24,25 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
 
 ---
 
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sadew-kulathunga-5496b8411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://github.com/kulathungasadew15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://instagram.com/sadewkulathunga15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+---
+
 ### 📁 Featured Projects
 
 > *As I progress through my ICT studies, I showcase my practical applications here.*
 
 #### 🌐 Web Development Projects
-*   **[Project Name]** - A dynamic web application built using HTML, CSS, and PHP for backend processing.
-*   **[Project Name]** - A clean, responsive landing page exploring advanced CSS layouts.
+
 
 #### 🐍 Python & Database Scripts
-*   **[Project Name]** - A Python script demonstrating core programming logic, data structures, and algorithms.
-*   **[Project Name]** - A MySQL database implementation showcasing schema design, entity relationships, and structured queries.
+
 
 ---
 
@@ -46,7 +54,3 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
 
 ---
 
-### 🤝 Connect with Me
-
-*   **linkedIn:** [Sadew Kulathunga](https://www.linkedin.com/in/sadew-kulathunga-5496b8411/)
-*   *Feel free to open an issue or pull request if you want to collaborate on a project!*
