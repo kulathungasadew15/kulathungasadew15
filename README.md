@@ -48,5 +48,5 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
 
 ### 🤝 Connect with Me
 
-*   **GitHub:** [github.com/Sadew-Kulathunga](https://github.com/Sadew-Kulathunga)
+*   **GitHub:** [github.com/kulathungasadew15](https://github.com/kulathungasadew15)
 *   *Feel free to open an issue or pull request if you want to collaborate on a project!*
