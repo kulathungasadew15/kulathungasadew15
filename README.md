@@ -13,17 +13,26 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
-| **Backend / Scripting** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) DB Management Systems (DBMS) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
-
+### 🛠️ Languages & Tools
+<p align="left">
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" width="40" height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS" width="40" height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" alt="Arduino" width="40" height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git" width="40" height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
+  
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kulathungasadew15&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sadew's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulathungasadew15&layout=compact&theme=tokyonight&hide_border=true" alt="Sadew's Top Languages" height="180px" />
+</p>
+
+---
 ### 🔗 Connect with Me
 
 <p align="left">
@@ -45,12 +54,6 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
 
 
 ---
-
-### 📊 GitHub Stats
-
-
-
-![Sadew's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kulathungasadew15&theme=radical)
 
 ---
 
