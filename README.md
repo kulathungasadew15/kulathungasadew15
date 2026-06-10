@@ -1,4 +1,4 @@
-# Hello there, I'm Sadew Kulathunga! 👋
+# Hello there, I'm Sadew Kulathunga ! 👋
 
 I am an Advanced Level ICT student and an aspiring web developer based in Sri Lanka. I enjoy learning new technologies, solving problems through code, and building interactive web applications. 
 
