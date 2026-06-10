@@ -36,6 +36,7 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
 </p>
 
 ---
+
 ### 🔗 Connect with Me
 
 <p align="left">
@@ -58,5 +59,5 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
 
 ---
 
----
+
 
