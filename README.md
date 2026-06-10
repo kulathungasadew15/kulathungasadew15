@@ -51,11 +51,13 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
 
 > *As I progress through my ICT studies, I showcase my practical applications here.*
 
+---
+
 #### 🌐 Web Development Projects
 
+---
 
 #### 🐍 Python & Database Scripts
-
 
 ---
 
