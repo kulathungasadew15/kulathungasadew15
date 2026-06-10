@@ -18,10 +18,11 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" width="40" height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS" width="40" height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" alt="Arduino" width="40" height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git" width="40" height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="PHP" width="40" height="40"/>
   
 ---
 
