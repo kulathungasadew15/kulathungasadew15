@@ -43,6 +43,7 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
   <a href="https://www.linkedin.com/in/sadew-kulathunga-5496b8411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://github.com/kulathungasadew15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
   <a href="https://instagram.com/sadewkulathunga15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+    <a href="https://www.threads.net/@sadewkulathunga15" target="_blank"><img align="center" src="https://unpkg.com/simple-icons@v11/icons/threads.svg" alt="Threads" height="30" width="40" /></a>
 </p>
 
 ---
