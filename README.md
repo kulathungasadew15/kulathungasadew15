@@ -42,11 +42,11 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
 <p align="left">
   <a href="https://www.linkedin.com/in/sadew-kulathunga-5496b8411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://github.com/kulathungasadew15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-   <a href="https://wa.me/qr/ZBSBXWETQEGPF1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/bablubambal/All-Social-Media-Icons-for-Repo/master/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
     <a href="https://www.threads.net/@sadewkulathunga15" target="_blank"><img align="center" src="https://unpkg.com/simple-icons@v11/icons/threads.svg" alt="Threads" height="30" width="40" /></a>
-    <a href="https://wa.me/qr/ZBSBXWETQEGPF1" target="_blank"><img align="center" src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" /></a>
+      <a href="https://wa.me/qr/ZBSBXWETQEGPF1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/bablubambal/All-Social-Media-Icons-for-Repo/master/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/profile/kulathungasadew1" target="_blank"><img align="center" src="https://unpkg.com/simple-icons@v11/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://x.com/sadewK15" target="_blank"><img align="center" src="https://unpkg.com/simple-icons@v11/icons/x.svg" alt="X" height="30" width="40" /></a>
+  <a
+ href="https://x.com/sadewK15" target="_blank"><img align="center" src="https://unpkg.com/simple-icons@v11/icons/x.svg" alt="X" height="30" width="40" /></a>
 </p>
 
 ---
