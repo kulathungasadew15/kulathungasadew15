@@ -18,11 +18,20 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
 
 ### 🚀 About Me
 
-- 🎓 **Current Focus:** Advanced Level ICT (Information & Communication Technology)
-- 💻 **Passionate About:** Frontend development, backend logic, and database management
-- 🌱 **Learning & Improving:** Enhancing my skills in Python automation and full-stack web architectures
-- 🎯 **Goals:** To build robust web solutions and contribute to open-source projects
+- 🎓 Undergraduate student at SLIIT, specializing in Computer Systems and Network Engineering.
+- 🛠️ Passionate about building robust network architectures, system administration, and exploring cloud technologies.
+- 💻 Actively developing projects using Python, PHP, and working with databases and fundamental networking protocols.
+- 🎯 Aiming to bridge the gap between software development and scalable infrastructure.
 
+👋 Welcome to my GitHub space!
+
+- I am currently pursuing my degree in Computer Systems and Network Engineering at SLIIT. I use this platform to document my learning journey, version-control my academic projects, and experiment with new technologies.
+
+📡 Current Focus: Advanced networking concepts, TCP/IP tracking, and secure system architectures.
+
+⚙️ Skills: Coding script solutions, database queries, and web development backend logic.
+
+🚀 Goal: To become a skilled Network Engineer capable of designing resilient digital infrastructures.
 ---
 
 ### 🛠️ Languages & Tools
