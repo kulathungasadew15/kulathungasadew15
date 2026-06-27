@@ -1,4 +1,9 @@
+<img width="2172" height="724" alt="file_000000004db871f5b93c058c0abdeb7a" src="https://github.com/user-attachments/assets/d86c7351-9a82-4839-b9d2-e6ecdecb7843" />
+
+---
+
 # Hello there, I'm Sadew Kulathunga ! 👋
+
 
 
 <div data-importer="image" align="center">
@@ -80,9 +85,6 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
 #### 🐍 Python & Database Scripts
 
 ---
-<p align="center">
-  <img src="banner.png" alt="My Skills Banner" width="100%">
-</p>
 
 
 
