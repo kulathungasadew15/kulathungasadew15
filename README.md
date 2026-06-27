@@ -96,6 +96,10 @@ I am a **Computer Systems and Network Engineering** student **@ SLIIT** based in
 
 ---
 
+💡 **Trivia:** My GitHub contribution graph was turning green before I even stepped foot into my first university lecture. 🟩🚀
+
+---
+
 <div data-importer="image" align="center">
   <img data-importer="image" height="100" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnU4cTNsMnhyM2FhaGx1dHlxdzdsOW1la3h5ZzFjcHU5anplYzR4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
 </div>
