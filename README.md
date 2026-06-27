@@ -1,5 +1,12 @@
 # Hello there, I'm Sadew Kulathunga ! 👋
 
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
+
 I am an Advanced Level ICT student and an aspiring web developer based in Sri Lanka. I enjoy learning new technologies, solving problems through code, and building interactive web applications. 
 
 ---
