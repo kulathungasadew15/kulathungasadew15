@@ -29,9 +29,11 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" alt="Arduino" width="40" height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git" width="40" height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://tse2.mm.bing.net/th/id/OIP.5zo7zNgNmYezWrJEiDincgHaHk?cb=thumbexptrt1&urlcheck=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="XAMPP" width="40" height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="PHP" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/scratch.svg" alt="Scratch" width="40" height="40"/>
  <img src="https://cryptologos.cc/logos/pascal-pasc-logo.png" alt="Pascal" width="40" height="40" style="background-color: #1a202c; border-radius: 10px; padding: 5px; box-sizing: border-box;"/>
+ 
  
 ---
 
