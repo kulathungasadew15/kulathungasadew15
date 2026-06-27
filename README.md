@@ -18,14 +18,14 @@ I am a **Computer Systems and Network Engineering** student **@ SLIIT** based in
 
 ### 🚀 About Me
 
-- 🎓 Undergraduate student at SLIIT, specializing in Computer Systems and Network Engineering.
+- 🎓 Undergraduate student **@ SLIIT** , specializing in Computer Systems and Network Engineering.
 - 🛠️ Passionate about building robust network architectures, system administration, and exploring cloud technologies.
 - 💻 Actively developing projects using Python, PHP, and working with databases and fundamental networking protocols.
 - 🎯 Aiming to bridge the gap between software development and scalable infrastructure.
 
 👋 Welcome to my GitHub space!
 
-- I am currently pursuing my degree in Computer Systems and Network Engineering at SLIIT. I use this platform to document my learning journey, version-control my academic projects, and experiment with new technologies.
+- I am currently pursuing my degree in Computer Systems and Network Engineering **@ SLIIT**. I use this platform to document my learning journey, version-control my academic projects, and experiment with new technologies.
 
 📡 Current Focus: Advanced networking concepts, TCP/IP tracking, and secure system architectures.
 
@@ -83,7 +83,8 @@ I am a **Computer Systems and Network Engineering** student **@ SLIIT** based in
 
 ### 📁 Featured Projects
 
-> *As I progress through my ICT studies, I showcase my practical applications here.*
+> *As I progress through my university journey and engineering labs, I showcase my practical applications and systems projects here.*
+
 
 ---
 
