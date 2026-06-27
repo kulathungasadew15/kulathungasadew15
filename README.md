@@ -12,7 +12,7 @@
 
 
 
-I am an Advanced Level ICT student and an aspiring web developer based in Sri Lanka. I enjoy learning new technologies, solving problems through code, and building interactive web applications. 
+I am a **Computer Systems and Network Engineering** student at **SLIIT** based in Sri Lanka. I enjoy diving into network infrastructures, learning new technologies, solving problems through code, and building both software applications and secure systems. 
 
 ---
 
