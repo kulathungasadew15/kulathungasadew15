@@ -8,7 +8,7 @@
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+</div>                         
 
 
 
@@ -96,5 +96,8 @@ I am a **Computer Systems and Network Engineering** student **@ SLIIT** based in
 
 ---
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="60" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUycnh0eDQ2MGprZzY2N3I3NjQ5amJjdTV3NGV0MnIyYzVmZ3dyMm82YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
+</div>
 
 
