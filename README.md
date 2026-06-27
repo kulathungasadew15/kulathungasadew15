@@ -39,29 +39,15 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
 
 ### 🔗 Connect with Me
 
-<div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/sadew-kulathunga-5496b8411" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://thesvg.org/icons/linkedin/default.svg" alt="LinkedIn" width="32" height="32" />
-  </a>
-  <a href="https://github.com/kulathungasadew15" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://thesvg.org/icons/github/default.svg" alt="GitHub" width="32" height="32" />
-  </a>
-  <a href="https://www.instagram.com/sadewkulathunga15?igsh=MTZreXl1bXpvdGdn" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://thesvg.org/icons/instagram/default.svg" alt="Instagram" width="32" height="32" />
-  </a>
-  <a href="https://www.threads.net/@sadewkulathunga15" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://unpkg.com/simple-icons@v11/icons/threads.svg" alt="Threads" width="32" height="32" />
-  </a>
-  <a href="https://wa.me/qr/ZBSBXWETQEGPF1" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://thesvg.org/icons/whatsapp/default.svg" alt="WhatsApp" width="32" height="32" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/kulathungasadew1" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://thesvg.org/icons/hackerrank/default.svg" alt="HackerRank" width="32" height="32" />
-  </a>
-  <a href="https://x.com/sadewK15" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://thesvg.org/icons/x/default.svg" alt="X" width="32" height="32" />
-  </a>
-</div>
+<p align="left">
+  <a href="https://github.com/kulathungasadew15" target="_blank"><img src="https://thesvg.org/icons/github/default.svg" alt="GitHub" width="32" height="32" style="margin-right: 8px;"/></a>
+  <a href="https://www.linkedin.com/in/sadew-kulathunga-5496b8411" target="_blank"><img src="https://thesvg.org/icons/linkedin/default.svg" alt="LinkedIn" width="32" height="32" style="margin-right: 8px;"/></a>
+  <a href="https://www.hackerrank.com/profile/kulathungasadew1" target="_blank"><img src="https://thesvg.org/icons/hackerrank/default.svg" alt="HackerRank" width="32" height="32" style="margin-right: 8px;"/></a>
+  <a href="https://wa.me/qr/ZBSBXWETQEGPF1" target="_blank"><img src="https://thesvg.org/icons/whatsapp/default.svg" alt="WhatsApp" width="32" height="32" style="margin-right: 8px;"/></a>
+  <a href="https://www.instagram.com/sadewkulathunga15?igsh=MTZreXl1bXpvdGdn" target="_blank"><img src="https://thesvg.org/icons/instagram/default.svg" alt="Instagram" width="32" height="32" style="margin-right: 8px;"/></a>
+  <a href="https://www.threads.net/@sadewkulathunga15" target="_blank"><img src="https://unpkg.com/simple-icons@v11/icons/threads.svg" alt="Threads" width="32" height="32" style="margin-right: 8px;"/></a>
+  <a href="https://x.com/sadewK15" target="_blank"><img src="https://thesvg.org/icons/x/default.svg" alt="X" width="32" height="32"/></a>
+</p>
 
 ---
 
