@@ -80,6 +80,9 @@ I am an Advanced Level ICT student and an aspiring web developer based in Sri La
 #### 🐍 Python & Database Scripts
 
 ---
+<p align="center">
+  <img src="banner.png" alt="My Skills Banner" width="100%">
+</p>
 
 
 
