@@ -51,6 +51,8 @@ I am a **Computer Systems and Network Engineering** student **@SLIIT** based in 
  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/scratch.svg" alt="Scratch" width="40" height="40"/>
  <img src="https://cryptologos.cc/logos/pascal-pasc-logo.png" alt="Pascal" width="40" height="40" style="background-color: #1a202c; border-radius: 10px; padding: 5px; box-sizing: border-box;"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg" alt="Database" width="40" height="40"/>
+
 
  
  
