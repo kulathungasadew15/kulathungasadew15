@@ -77,6 +77,7 @@ I am a **Computer Systems and Network Engineering** student **@ SLIIT** based in
   <a href="https://www.instagram.com/sadewkulathunga15?igsh=MTZreXl1bXpvdGdn" target="_blank"><img src="https://thesvg.org/icons/instagram/default.svg" alt="Instagram" width="32" height="32" style="margin-right: 8px;"/></a>
   <a href="https://www.threads.net/@sadewkulathunga15" target="_blank"><img src="https://unpkg.com/simple-icons@v11/icons/threads.svg" alt="Threads" width="32" height="32" style="margin-right: 8px;"/></a>
   <a href="https://x.com/sadewK15" target="_blank"><img src="https://thesvg.org/icons/x/default.svg" alt="X" width="32" height="32"/></a>
+<a href="https://t.me/sadewkulathunga15" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="32" height="32" style="margin-right: 8px;"/></a>
 </p>
 
 ---
