@@ -2,7 +2,7 @@
 
 ---
 
-# Hello there, I'm Sadew Kulathunga ! 👋
+# 👋 Hello there, I'm Sadew Kulathunga ! 
 
 
 
@@ -12,26 +12,26 @@
 
 
 
-I am a **Computer Systems and Network Engineering** student **@ SLIIT** based in Sri Lanka. I enjoy diving into network infrastructures, learning new technologies, solving problems through code, and building both software applications and secure systems. 
+I am a **Computer Systems and Network Engineering** student **@SLIIT** based in Sri Lanka. I enjoy diving into network infrastructures, learning new technologies, solving problems through code, and building both software applications and secure systems. 
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Undergraduate student **@ SLIIT** , specializing in Computer Systems and Network Engineering.
+- 🎓 Undergraduate student **@SLIIT** , specializing in Computer Systems and Network Engineering.
 - 🛠️ Passionate about building robust network architectures, system administration, and exploring cloud technologies.
 - 💻 Actively developing projects using Python, PHP, and working with databases and fundamental networking protocols.
 - 🎯 Aiming to bridge the gap between software development and scalable infrastructure.
 
-👋 Welcome to my GitHub space!
+👋 Welcome to my GitHub space !
 
-- I am currently pursuing my degree in Computer Systems and Network Engineering **@ SLIIT**. I use this platform to document my learning journey, version-control my academic projects, and experiment with new technologies.
+- I am currently pursuing my degree in Computer Systems and Network Engineering **@SLIIT**. I use this platform to document my learning journey, version-control my academic projects, and experiment with new technologies.
 
-📡 Current Focus: Advanced networking concepts, TCP/IP tracking, and secure system architectures.
+**📡 Current Focus :** Advanced networking concepts, TCP/IP tracking, and secure system architectures.
 
-⚙️ Skills: Coding script solutions, database queries, and web development backend logic.
+**⚙️ Skills :** Coding script solutions, database queries, and web development backend logic.
 
-🚀 Goal: To become a skilled Network Engineer capable of designing resilient digital infrastructures.
+**🚀 Goal :** To become a skilled Network Engineer capable of designing resilient digital infrastructures.
 ---
 
 ### 🛠️ Languages & Tools
