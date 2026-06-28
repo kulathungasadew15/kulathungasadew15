@@ -49,7 +49,7 @@ I am a **Computer Systems and Network Engineering** student **@SLIIT** based in 
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/adobelightroom.svg" alt="Adobe Lightroom" width="40" height="40"/>
+<img src="https://logo.licdn.com/dms/image/v2/D4E0BAQG7vM9D6hPxlQ/company-logo_200_200/company-logo_200_200/0/1711440798132/adobe_lightroom_logo?e=2147483647&v=beta&t=o1fPhwS7p3R2013-167" alt="Lightroom" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg" alt="Database" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/scratch.svg" alt="Scratch" width="40" height="40"/>
  <img src="https://cryptologos.cc/logos/pascal-pasc-logo.png" alt="Pascal" width="40" height="40" style="background-color: #1a202c; border-radius: 10px; padding: 5px; box-sizing: border-box;"/>
