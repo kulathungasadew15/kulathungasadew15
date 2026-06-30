@@ -55,22 +55,24 @@ I am a **Computer Systems and Network Engineering** student **@SLIIT** based in 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/scratch.svg" alt="Scratch" width="40" height="40"/>
  <img src="https://cryptologos.cc/logos/pascal-pasc-logo.png" alt="Pascal" width="40" height="40" style="background-color: #1a202c; border-radius: 10px; padding: 5px; box-sizing: border-box;"/>
 
-
-
- 
- 
- 
- 
 ---
 
-### 📈 GitHub Stats
+### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kulathungasadew15&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sadew's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulathungasadew15&layout=compact&theme=tokyonight&hide_border=true" alt="Sadew's Top Languages" height="180px" />
+  <img src="https://github-readme-stats.shion.dev/api?username=kulathungasadew15&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sadew's GitHub stats" height="180px" />
+  <br /><br />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kulathungasadew15&layout=compact&theme=tokyonight&hide_border=true" alt="Sadew's Top Languages" height="180px" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulathungasadew15&theme=tokyonight&hide_border=true" alt="Sadew's Streak Stats" height="180px" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/kulathungasadew15">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
+
 
 ### 🔗 Connect with Me
 
@@ -93,13 +95,22 @@ I am a **Computer Systems and Network Engineering** student **@SLIIT** based in 
 
 
 ---
-
 #### 🌐 Web Development Projects
 
----
 
 #### 🐍 Python & Database Scripts
+> *As I progress through my university journey and engineering labs, I showcase my practical applications and systems projects here.*
 
+#### 🧮 [Project Euler Python](https://github.com/kulathungasadew15/Project-Euler-Python)
+🐍 A collection of clean, optimized Python solutions for mathematical and computational challenges on Project Euler.
+* **Tech Stack:** Python
+* **Key Focus:** Algorithm optimization, computational mathematics, and clean script architecture.
+
+#### 🎓📊 [SIMPLE Database](https://github.com/kulathungasadew15/SIMPLE-Database-)
+A relational MySQL database designed to manage school ecosystems. Seamlessly connects Students, Teachers, Classes, and Subjects!
+* **Tech Stack:** MySQL / Relational Database Design
+* **Key Features:** Robust schemas, structural integrity via primary/foreign keys, and advanced multi-table `JOIN` queries for data analytics.
+</details>
 ---
 
 💡 **Trivia:** My GitHub contribution graph was turning green before I even stepped foot into my first university lecture. 🟩🚀
