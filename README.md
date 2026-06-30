@@ -112,10 +112,12 @@ sadew@infrastructure-core:~$ current-focus --verbose
 
 > *As I progress through my university journey and engineering labs, I showcase my practical applications and systems projects here.*
 
+---
+
+#### 🌐 Web Development Projects
+> *As I progress through my university journey and engineering labs, I showcase my practical applications and systems projects here.*
 
 ---
-#### 🌐 Web Development Projects
-
 
 #### 🐍 Python & Database Scripts
 > *As I progress through my university journey and engineering labs, I showcase my practical applications and systems projects here.*
