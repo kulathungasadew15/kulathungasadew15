@@ -82,7 +82,7 @@ sadew@infrastructure-core:~$ current-focus --verbose
   <br /><br />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kulathungasadew15&layout=compact&theme=tokyonight&hide_border=true" alt="Sadew's Top Languages" height="180px" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulathungasadew15&theme=tokyonight&hide_border=true" alt="Sadew's Streak Stats" height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=kulathungasadew15&theme=tokyonight&hide_border=true" alt="Sadew's Streak Stats" height="180px" />
 </p>
 
 <p align="center">
