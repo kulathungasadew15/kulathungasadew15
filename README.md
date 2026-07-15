@@ -72,6 +72,9 @@ sadew@infrastructure-core:~$ current-focus --verbose
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg" alt="Database" width="40" height="40"/>
 <img src="https://images.squarespace-cdn.com/content/v1/5e5d065b6bd59d282a543bbc/1590000533694-5WQSAOGQ2B5WCVMC5AU8/cisco.jpg" alt="Cisco Packet Tracer" width="40" height="40"/>
 <img src="https://www.nicepng.com/png/detail/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png" alt="Eclipse IDE" width="40" height="40"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Notepadpp-Light.svg" alt="Notepad++" width="40" height="40"/>
+
+
 
 ---
 
