@@ -3,14 +3,7 @@
 ---
 
 # 👋 Hello there, I'm Sadew Kulathunga ! 
-
-
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>                         
-
-
+                        
 
 I am a **Computer Systems and Network Engineering** student **@SLIIT** based in Sri Lanka. I enjoy diving into network infrastructures, learning new technologies, solving problems through code, and building both software applications and secure systems. 
 
@@ -88,7 +81,7 @@ sadew@infrastructure-core:~$ current-focus --verbose
 </p>
 <p align="center">
   <a href="https://github.com/kulathungasadew15">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kulathungasadew15&theme=tokyonight" alt="GitHub Streak" />
+    <img src="./profile/streak.svg" alt="GitHub Streak" />
   </a>
 </p>
 <p align="center">
@@ -145,12 +138,4 @@ A relational MySQL database designed to manage school ecosystems. Seamlessly con
 💡 **Trivia:** My GitHub contribution graph was turning green before I even stepped foot into my first university lecture. 🟩🚀
 
 ---
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="100" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnU4cTNsMnhyM2FhaGx1dHlxdzdsOW1la3h5ZzFjcHU5anplYzR4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
-</div>
-
-
----
-
 
