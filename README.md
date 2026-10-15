@@ -112,6 +112,8 @@ sadew@infrastructure-core:~$ current-focus --verbose
 
 > *As I progress through my university journey and engineering labs, I showcase my practical applications and systems projects here.*
 
+* **[🍎 FreshGuard](https://github.com/kulathungasadew15/freshguard-iot)** — An ESP32-powered smart storage system designed to monitor fruit environmental conditions (temperature, humidity, gas trends, and weight). Features automated ventilation, local alerts, MicroSD logging, and a feature-rich local Wi-Fi web dashboard.
+
 ---
 
 #### 🌐 Web Development Projects
