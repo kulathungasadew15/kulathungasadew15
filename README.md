@@ -5,7 +5,7 @@
 # 👋 Hello there, I'm Sadew Kulathunga ! 
                         
 
-I am a **Computer Systems and Network Engineering** student **@SLIIT** based in Sri Lanka. I enjoy diving into network infrastructures, learning new technologies, solving problems through code, and building both software applications and secure systems. 
+I am a student **@SLIIT** based in Sri Lanka. I enjoy diving into network infrastructures, learning new technologies, solving problems through code, and building both software applications and secure systems. 
 
 
 ### 🖥️ system-diagnostics --status
@@ -28,7 +28,7 @@ sadew@infrastructure-core:~$ current-focus --verbose
 
 ### 🚀 About Me
 
-- 🎓 Undergraduate student **@SLIIT** , specializing in Computer Systems and Network Engineering.
+- 🎓 Undergraduate student **@SLIIT** 
 - 🛠️ Passionate about building robust network architectures, system administration, and exploring cloud technologies.
 - 💻 Actively developing projects using Python, PHP, and working with databases and fundamental networking protocols.
 - 🎯 Aiming to bridge the gap between software development and scalable infrastructure.
