@@ -74,19 +74,39 @@ sadew@infrastructure-core:~$ current-focus --verbose
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=kulathungasadew15&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sadew's GitHub stats" height="180px" />
-  <br /><br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kulathungasadew15&layout=compact&theme=tokyonight&hide_border=true" alt="Sadew's Top Languages" height="180px" />
-  <br /><br />
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=kulathungasadew15&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Sadew's GitHub Stats"
+    width="495"
+    height="195"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=kulathungasadew15&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Sadew's Top Languages"
+    height="180"
+  />
+</p>
+
 <p align="center">
   <a href="https://github.com/kulathungasadew15">
-    <img src="./profile/streak.svg" alt="GitHub Streak" />
+    <img
+      src="https://streak-stats.demolab.com/?user=kulathungasadew15&amp;theme=tokyonight&amp;hide_border=true"
+      alt="Sadew's GitHub Streak"
+      width="495"
+      height="195"
+    />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/kulathungasadew15">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img
+      src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&amp;logo=github&amp;logoColor=white"
+      alt="GitHub Profile"
+    />
   </a>
 </p>
 
