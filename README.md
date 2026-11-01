@@ -1,7 +1,3 @@
-<img width="2172" height="724" alt="file_000000004db871f5b93c058c0abdeb7a" src="https://github.com/user-attachments/assets/d86c7351-9a82-4839-b9d2-e6ecdecb7843" />
-
----
-
 # 👋 Hello there, I'm Sadew Kulathunga ! 
                         
 
