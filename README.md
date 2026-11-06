@@ -3,25 +3,6 @@
 
 I am a student **@SLIIT** based in Sri Lanka. I enjoy diving into network infrastructures, learning new technologies, solving problems through code, and building both software applications and secure systems. 
 
-
-### 🖥️ system-diagnostics --status
-
-```bash
-sadew@infrastructure-core:~$ ping -c 3 sliit.edu.lk
-PING sliit.edu.lk (104.22.12.115) 56(84) bytes of data.
-64 bytes from 104.22.12.115: icmp_seq=1 ttl=56 time=14.2 ms
-64 bytes from 104.22.12.115: icmp_seq=2 ttl=56 time=12.1 ms
-64 bytes from 104.22.12.115: icmp_seq=3 ttl=56 time=15.3 ms
-
---- sliit.edu.lk ping statistics ---
-3 packets transmitted, 3 received, 0% packet loss, time 2003ms
-rtt min/avg/max/mdev = 12.115/13.873/15.312/1.324 ms
-
-sadew@infrastructure-core:~$ current-focus --verbose
-[INFO] Actively tracking TCP/IP architectures & secure system configurations.
-[INFO] Developing automation scripts and maintaining database structural integrity.
-```
-
 ### 🚀 About Me
 
 - 🎓 Undergraduate student **@SLIIT** 
