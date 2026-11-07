@@ -75,7 +75,7 @@ Hi, I’m Sadew Kulathunga, a BSc (Hons) in Information Technology undergraduate
 <p align="left">
   <a href="https://github.com/kulathungasadew15" target="_blank"><img src="https://thesvg.org/icons/github/default.svg" alt="GitHub" width="32" height="32" style="margin-right: 8px;"/></a>
   <a href="https://www.linkedin.com/in/sadew-kulathunga-5496b8411" target="_blank"><img src="https://thesvg.org/icons/linkedin/default.svg" alt="LinkedIn" width="32" height="32" style="margin-right: 8px;"/></a>
-  <a href="https://www.hackerrank.com/profile/kulathungasadew1" target="_blank"><img src="https://thesvg.org/icons/hackerrank/default.svg" alt="HackerRank" width="32" height="32" style="margin-right: 8px;"/></a>
+  <a href="https://www.hackerrank.com/profile/kulathungasadew1"](https://www.hackerrank.com/profile/kulathungasadew1) target="_blank"><img src="https://thesvg.org/icons/hackerrank/default.svg" alt="HackerRank" width="32" height="32" style="margin-right: 8px;"/></a>
   <a href="https://wa.me/qr/ZBSBXWETQEGPF1" target="_blank"><img src="https://thesvg.org/icons/whatsapp/default.svg" alt="WhatsApp" width="32" height="32" style="margin-right: 8px;"/></a>
   <a href="https://www.instagram.com/sadewkulathunga15?igsh=MTZreXl1bXpvdGdn" target="_blank"><img src="https://thesvg.org/icons/instagram/default.svg" alt="Instagram" width="32" height="32" style="margin-right: 8px;"/></a>
   <a href="https://www.threads.net/@sadewkulathunga15" target="_blank"><img src="https://unpkg.com/simple-icons@v11/icons/threads.svg" alt="Threads" width="32" height="32" style="margin-right: 8px;"/></a>
@@ -85,36 +85,30 @@ Hi, I’m Sadew Kulathunga, a BSc (Hons) in Information Technology undergraduate
 
 ---
 
-### 📁 Featured Projects
+### 📁 Development Projects
 
-> *As I progress through my university journey and engineering labs, I showcase my practical applications and systems projects here.*
-
-* **[🍎 FreshGuard](https://github.com/kulathungasadew15/freshguard-iot)** — An ESP32-powered smart storage system designed to monitor fruit environmental conditions (temperature, humidity, gas trends, and weight). Features automated ventilation, local alerts, MicroSD logging, and a feature-rich local Wi-Fi web dashboard.
+- **[🍎 FreshGuard](https://github.com/kulathungasadew15/freshguard-iot)** — An ESP32-powered smart storage system designed to monitor fruit environmental conditions (temperature, humidity, gas trends, and weight). Features automated ventilation, local alerts, MicroSD logging, and a feature-rich local Wi-Fi web dashboard.
 
 ---
 
 #### 🌐 Web Development Projects
-> *As I progress through my university journey and engineering labs, I showcase my practical applications and systems projects here.*
+
+- **[🥥 S&S Coco Web Prototype](https://github.com/kulathungasadew15/ss-coco-web-prototype)** ([Live Preview](https://sscocovercel.vercel.app/)) — A responsive B2B landing page and digital storefront concept created as my first-ever web development project for S&S Oil Distributors[cite: 1]. Built using HTML5 and CSS to showcase wholesale coconut oil products and flexible bulk supply options[cite: 1].
 
 ---
 
 #### 🐍 Python & Database Scripts
-> *As I progress through my university journey and engineering labs, I showcase my practical applications and systems projects here.*
 
-#### 🧮 [Project Euler Python](https://github.com/kulathungasadew15/Project-Euler-Python)
-🐍 A collection of clean, optimized Python solutions for mathematical and computational challenges on Project Euler.
-* **Tech Stack:** Python
-* **Key Focus:** Algorithm optimization, computational mathematics, and clean script architecture.
+- **[🧮 Project Euler Python](https://github.com/kulathungasadew15/Project-Euler-Python)** — A collection of clean, optimized Python solutions for mathematical and computational challenges on Project Euler.
+  - **Tech Stack:** Python
+  - **Key Focus:** Algorithm optimization, computational mathematics, and clean script architecture.
 
-#### 🎓📊 [SIMPLE Database](https://github.com/kulathungasadew15/SIMPLE-Database-)
-A relational MySQL database designed to manage school ecosystems. Seamlessly connects Students, Teachers, Classes, and Subjects!
-* **Tech Stack:** MySQL / Relational Database Design
-* **Key Features:** Robust schemas, structural integrity via primary/foreign keys, and advanced multi-table `JOIN` queries for data analytics.
-</details>
+- **[🎓📊 SIMPLE Database](https://github.com/kulathungasadew15/SIMPLE-Database-)** — A relational MySQL database designed to manage school ecosystems. Seamlessly connects Students, Teachers, Classes, and Subjects!
+  - **Tech Stack:** MySQL / Relational Database Design
+  - **Key Features:** Robust schemas, structural integrity via primary/foreign keys, and advanced multi-table `JOIN` queries for data analytics.
 
 ---
 
 💡 **Trivia:** My GitHub contribution graph was turning green before I even stepped foot into my first university lecture. 🟩🚀
 
 ---
-
