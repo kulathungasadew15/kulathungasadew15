@@ -5,85 +5,65 @@ I am a student **@SLIIT** based in Sri Lanka. I enjoy diving into network infras
 
 ### 🚀 About Me
 
-- 🎓 Undergraduate student **@SLIIT** 
-- 🛠️ Passionate about building robust network architectures, system administration, and exploring cloud technologies.
-- 💻 Actively developing projects using Python, PHP, and working with databases and fundamental networking protocols.
-- 🎯 Aiming to bridge the gap between software development and scalable infrastructure.
+Hi, I’m Sadew Kulathunga, a BSc (Hons) in Information Technology undergraduate at SLIIT, Sri Lanka. I enjoy learning how technology works and turning ideas into practical projects.
 
-👋 Welcome to my GitHub space !
+- 🎓 Building a strong foundation in programming, databases, and computing.
+- 💻 Developing projects with Python, Java, PHP, and MySQL.
+- 🛠️ Exploring web development, automation, and IoT through hands-on projects.
+- 🌱 Sharing my learning journey, university coursework, and personal projects here on GitHub.
 
-- I am currently pursuing my degree in Computer Systems and Network Engineering **@SLIIT**. I use this platform to document my learning journey, version-control my academic projects, and experiment with new technologies.
+**🎯 Current Focus:** Strengthening my programming and problem-solving skills, learning software development fundamentals, and building practical applications.
 
-**📡 Current Focus :** Advanced networking concepts, TCP/IP tracking, and secure system architectures.
+**⚙️ Skills:** Python, Java, PHP, HTML, CSS, MySQL, Git, and hands-on experience with Arduino and ESP32 projects.
 
-**⚙️ Skills :** Coding script solutions, database queries, and web development backend logic.
-
-**🚀 Goal :** To become a skilled Network Engineer capable of designing resilient digital infrastructures.
-
+**🚀 Goal:** To become a versatile IT professional who builds reliable software and uses technology to solve real-world problems.
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
+
 <p align="left">
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" width="40" height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS" width="40" height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" alt="Arduino" width="40" height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git" width="40" height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
- <img src="https://tse2.mm.bing.net/th/id/OIP.5zo7zNgNmYezWrJEiDincgHaHk?cb=thumbexptrt1&urlcheck=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="XAMPP" width="40" height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="PHP" width="40" height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" alt="IntelliJ IDEA" width="40" height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/adobelightroom.svg" alt="Adobe Lightroom" width="40" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg" alt="Database" width="40" height="40"/>
-<img src="https://images.squarespace-cdn.com/content/v1/5e5d065b6bd59d282a543bbc/1590000533694-5WQSAOGQ2B5WCVMC5AU8/cisco.jpg" alt="Cisco Packet Tracer" width="40" height="40"/>
-<img src="https://www.nicepng.com/png/detail/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png" alt="Eclipse IDE" width="40" height="40"/>
-
-
-
+  <img src="https://skillicons.dev/icons?i=python,java,php,html,css" width="25%" alt="Python, Java, PHP, HTML and CSS" />
+  <img src="https://skills.syvixor.com/api/icons?i=cisco&amp;radius=60" width="4.4%" alt="Cisco Packet Tracer" />
+  <img src="https://skillicons.dev/icons?i=arduino,mysql,supabase" width="15%" alt="Arduino, MySQL and Supabase" />
+  <img src="https://skills.syvixor.com/api/icons?i=xampp&amp;radius=60" width="4.4%" alt="XAMPP" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse" width="20%" alt="Git, VS Code, IntelliJ IDEA and Eclipse IDE" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,photoshop,illustrator,lightroom&amp;theme=dark" width="20%" alt="Figma, Photoshop, Illustrator and Lightroom" />
+</p>
 
 ---
 
-### 📊 Performance Metrics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api?username=kulathungasadew15&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
-    alt="Sadew's GitHub Stats"
-    width="495"
-    height="195"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=kulathungasadew15&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
-    alt="Sadew's Top Languages"
-    height="180"
-  />
-</p>
+## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/kulathungasadew15">
     <img
-      src="https://streak-stats.demolab.com/?user=kulathungasadew15&amp;theme=tokyonight&amp;hide_border=true"
-      alt="Sadew's GitHub Streak"
-      width="495"
-      height="195"
+      src="https://github-readme-stats.shion.dev/api?username=kulathungasadew15&amp;bg_color=25%2C0F172A%2C111827&amp;title_color=7DD3FC&amp;text_color=CBD5E1&amp;border_color=26334D&amp;border_radius=14&amp;card_width=350&amp;disable_animations=true&amp;show_icons=true&amp;icon_color=A78BFA&amp;hide_rank=true&amp;line_height=28&amp;custom_title=GitHub+Overview&amp;text_bold=false"
+      width="350"
+      alt="Sadew's GitHub overview"
+    />
+  </a>
+  <a href="https://github.com/kulathungasadew15?tab=repositories">
+    <img
+      src="https://github-readme-stats.shion.dev/api/top-langs/?username=kulathungasadew15&amp;bg_color=25%2C0F172A%2C111827&amp;title_color=7DD3FC&amp;text_color=CBD5E1&amp;border_color=26334D&amp;border_radius=14&amp;card_width=300&amp;disable_animations=true&amp;layout=donut&amp;langs_count=5&amp;custom_title=Language+Breakdown"
+      width="350"
+      alt="Language breakdown across Sadew's public repositories"
     />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/kulathungasadew15">
-    <img
-      src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&amp;logo=github&amp;logoColor=white"
-      alt="GitHub Profile"
-    />
+    <picture>
+      <source
+        media="(max-width: 600px)"
+        srcset="https://streak-stats.demolab.com/?user=kulathungasadew15&amp;background=0F172A&amp;border=26334D&amp;stroke=26334D&amp;ring=38BDF8&amp;fire=A78BFA&amp;currStreakNum=F8FAFC&amp;sideNums=7DD3FC&amp;currStreakLabel=7DD3FC&amp;sideLabels=CBD5E1&amp;dates=94A3B8&amp;border_radius=14&amp;card_width=350&amp;card_height=190&amp;disable_animations=true&amp;timezone=Asia%2FColombo"
+      />
+      <img
+        src="https://streak-stats.demolab.com/?user=kulathungasadew15&amp;background=0F172A&amp;border=26334D&amp;stroke=26334D&amp;ring=38BDF8&amp;fire=A78BFA&amp;currStreakNum=F8FAFC&amp;sideNums=7DD3FC&amp;currStreakLabel=7DD3FC&amp;sideLabels=CBD5E1&amp;dates=94A3B8&amp;border_radius=14&amp;card_width=710&amp;card_height=190&amp;disable_animations=true&amp;timezone=Asia%2FColombo"
+        width="710"
+        alt="Sadew's total contributions, current streak and longest streak"
+      />
+    </picture>
   </a>
 </p>
 
