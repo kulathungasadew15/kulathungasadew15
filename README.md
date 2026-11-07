@@ -44,7 +44,7 @@ Hi, I’m Sadew Kulathunga, a BSc (Hons) in Information Technology undergraduate
   </a>
   <a href="https://github.com/kulathungasadew15?tab=repositories">
     <img
-      src="https://github-readme-stats.shion.dev/api/top-langs/?username=kulathungasadew15&amp;bg_color=25%2C0F172A%2C111827&amp;title_color=7DD3FC&amp;text_color=CBD5E1&amp;border_color=26334D&amp;border_radius=14&amp;card_width=300&amp;disable_animations=true&amp;layout=donut&amp;langs_count=5&amp;custom_title=Language+Breakdown"
+      src="https://github-readme-stats.shion.dev/api/top-langs?username=kulathungasadew15&amp;bg_color=25%2C0F172A%2C111827&amp;title_color=7DD3FC&amp;text_color=CBD5E1&amp;border_color=26334D&amp;border_radius=14&amp;card_width=300&amp;disable_animations=true&amp;layout=donut&amp;langs_count=5&amp;custom_title=Language+Breakdown"
       width="350"
       alt="Language breakdown across Sadew's public repositories"
     />
