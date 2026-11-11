@@ -22,12 +22,12 @@ Hi, I’m Sadew Kulathunga, a BSc (Hons) in Information Technology undergraduate
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,html,css" width="25%" alt="Python, Java, PHP, HTML and CSS" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,html,css" width="35%" alt="Python, Java, C++, JavaScript, PHP, HTML and CSS" />
   <img src="https://skills.syvixor.com/api/icons?i=cisco&amp;radius=60" width="4.4%" alt="Cisco Packet Tracer" />
-  <img src="https://skillicons.dev/icons?i=arduino,mysql,supabase" width="15%" alt="Arduino, MySQL and Supabase" />
+  <img src="https://skillicons.dev/icons?i=arduino,mysql,supabase,vercel" width="20%" alt="Arduino, MySQL, Supabase and Vercel" />
   <img src="https://skills.syvixor.com/api/icons?i=xampp&amp;radius=60" width="4.4%" alt="XAMPP" />
-  <img src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse" width="20%" alt="Git, VS Code, IntelliJ IDEA and Eclipse IDE" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,photoshop,illustrator,lightroom&amp;theme=dark" width="20%" alt="Figma, Photoshop, Illustrator and Lightroom" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse,windows" width="25%" alt="Git, VS Code, IntelliJ IDEA, Eclipse IDE and Windows" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,canva,photoshop,illustrator,lightroom&amp;theme=dark" width="25%" alt="Figma, Canva, Photoshop, Illustrator and Lightroom" />
 </p>
 
 ---
@@ -75,12 +75,8 @@ Hi, I’m Sadew Kulathunga, a BSc (Hons) in Information Technology undergraduate
 <p align="left">
   <a href="https://github.com/kulathungasadew15" target="_blank"><img src="https://thesvg.org/icons/github/default.svg" alt="GitHub" width="32" height="32" style="margin-right: 8px;"/></a>
   <a href="https://www.linkedin.com/in/sadew-kulathunga-5496b8411" target="_blank"><img src="https://thesvg.org/icons/linkedin/default.svg" alt="LinkedIn" width="32" height="32" style="margin-right: 8px;"/></a>
-  <a href="https://www.hackerrank.com/profile/kulathungasadew1"](https://www.hackerrank.com/profile/kulathungasadew1) target="_blank"><img src="https://thesvg.org/icons/hackerrank/default.svg" alt="HackerRank" width="32" height="32" style="margin-right: 8px;"/></a>
-  <a href="https://wa.me/qr/ZBSBXWETQEGPF1" target="_blank"><img src="https://thesvg.org/icons/whatsapp/default.svg" alt="WhatsApp" width="32" height="32" style="margin-right: 8px;"/></a>
-  <a href="https://www.instagram.com/sadewkulathunga15?igsh=MTZreXl1bXpvdGdn" target="_blank"><img src="https://thesvg.org/icons/instagram/default.svg" alt="Instagram" width="32" height="32" style="margin-right: 8px;"/></a>
-  <a href="https://www.threads.net/@sadewkulathunga15" target="_blank"><img src="https://unpkg.com/simple-icons@v11/icons/threads.svg" alt="Threads" width="32" height="32" style="margin-right: 8px;"/></a>
-  <a href="https://x.com/sadewK15" target="_blank"><img src="https://thesvg.org/icons/x/default.svg" alt="X" width="32" height="32"/></a>
-<a href="https://t.me/sadewkulathunga15" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="32" height="32" style="margin-right: 8px;"/></a>
+  <a href="https://www.hackerrank.com/profile/kulathungasadew1" target="_blank"><img src="https://thesvg.org/icons/hackerrank/default.svg" alt="HackerRank" width="32" height="32" style="margin-right: 8px;"/></a>
+  <a href="https://www.fiverr.com/sadewkulathunga" target="_blank"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/86/5f/8d865f60-c350-9890-48b0-15e18ff3f5ee/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.png" alt="Fiverr" width="32" height="32" style="margin-right: 8px; border-radius: 6px;"/></a>
 </p>
 
 ---
