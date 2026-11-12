@@ -22,12 +22,12 @@ Hi, I’m Sadew Kulathunga, a BSc (Hons) in Information Technology undergraduate
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,html,css" width="35%" alt="Python, Java, C++, JavaScript, PHP, HTML and CSS" />
-  <img src="https://skills.syvixor.com/api/icons?i=cisco&amp;radius=60" width="4.4%" alt="Cisco Packet Tracer" />
-  <img src="https://skillicons.dev/icons?i=arduino,mysql,supabase,vercel" width="20%" alt="Arduino, MySQL, Supabase and Vercel" />
-  <img src="https://skills.syvixor.com/api/icons?i=xampp&amp;radius=60" width="4.4%" alt="XAMPP" />
-  <img src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse,windows" width="25%" alt="Git, VS Code, IntelliJ IDEA, Eclipse IDE and Windows" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,canva,photoshop,illustrator,lightroom&amp;theme=dark" width="25%" alt="Figma, Canva, Photoshop, Illustrator and Lightroom" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,html,css" height="30" alt="Python, Java, C++, JavaScript, PHP, HTML and CSS" />
+  <img src="https://skills.syvixor.com/api/icons?i=cisco&amp;radius=60" height="30" alt="Cisco Packet Tracer" />
+  <img src="https://skillicons.dev/icons?i=arduino,mysql,supabase,vercel" height="30" alt="Arduino, MySQL, Supabase and Vercel" />
+  <img src="https://skills.syvixor.com/api/icons?i=xampp&amp;radius=60" height="30" alt="XAMPP" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse,windows" height="30" alt="Git, VS Code, IntelliJ IDEA, Eclipse IDE and Windows" />
+  <img src="https://skills.syvixor.com/api/icons?i=figma,canva,photoshop,illustrator,lightroom&amp;radius=60" height="30" alt="Figma, Canva, Photoshop, Illustrator and Lightroom" />
 </p>
 
 ---
